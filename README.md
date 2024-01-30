@@ -2,11 +2,18 @@ SmartChatBot is an intelligent and learning conversational AI designed to engage
 
 Key Features:
 
-Learning Capability: The chatbot learns from user interactions, constantly improving its ability to understand and respond effectively.
-Adaptive Responses: SmartChatBot adapts its responses based on the context and similarity to previously learned interactions.
-User-Friendly: Simple and intuitive, allowing users to engage in casual conversations on a variety of topics.
-Personalization: Responses are tailored to user input, creating a more dynamic and engaging chat experience.
-Customizable: Users can contribute to the chatbot's knowledge by providing better responses for specific situations.
+
+Learning Capability:
+The chatbot learns from user interactions, constantly improving its ability to understand and respond effectively.
+
+Adaptive Responses: 
+SmartChatBot adapts its responses based on the context and similarity to previously learned interactions.
+User-Friendly:
+Simple and intuitive, allowing users to engage in casual conversations on a variety of topics.
+Personalization:
+Responses are tailored to user input, creating a more dynamic and engaging chat experience.
+Customizable: 
+Users can contribute to the chatbot's knowledge by providing better responses for specific situations.
 How to Use:
 
 Start the chat by typing your input.
